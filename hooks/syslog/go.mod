@@ -1,3 +1,3 @@
-module github.com/sirupsen/logrus/hooks/syslog
+module github.com/Wifx/logrus/hooks/syslog
 
 go 1.13
